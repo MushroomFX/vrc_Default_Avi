@@ -1,16 +1,16 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
+    "name":"mfx.defaults",
+    "id":"vrc_Default_Avi",
     "url":"https://mushroomfx.github.io/vrc_Default_Avi/source.json",
     "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
+        "email":"",
+        "name":"mfx.defaults",
+        "url":""
     },
-    "description":"Example listing of VRChat packages",
+    "description":"A list of packages i always use",
     "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
-        "text":"View on GitHub"
+        "url":"",
+        "text":""
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
